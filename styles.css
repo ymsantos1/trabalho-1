@@ -1,0 +1,8 @@
+/* Estilos da aplicação — preenchido na Etapa 2.
+   Reset mínimo apenas para a estrutura ficar legível na Etapa 1. */
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: system-ui, Arial, sans-serif;
+  line-height: 1.5;
+}
